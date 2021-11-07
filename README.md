@@ -5,7 +5,7 @@
 :computer: Interests: Backend, Full-Stack, Data Science, Data Engineering
 
 
-:books: I'm currently learning more about backend, data science and data engineering
+:books: I am currently deepening my knowledge in data engineering
 
 <h1>My techs</h1>
 
