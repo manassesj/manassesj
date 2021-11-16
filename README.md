@@ -5,7 +5,7 @@
 :computer: Interests: Backend, Full-Stack, Data Science, Data Engineering
 
 
-:books: I am currently deepening my knowledge in data engineering
+:books: I am currently learning analyzis and visualizing data with Power BI
 
 <h1>My techs</h1>
 
