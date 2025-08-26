@@ -65,8 +65,8 @@ Currently, my main interests are **Data Engineering** and **Backend Development*
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=manassesj&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manassesj&layout=compact&theme=radical)
 
 ---
 
