@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Manassés Júlio
 
 💻 **Fullstack Developer | Data Analyst/Scientist | Data Engineer**  
-📍 Recife, Brasil | 📧 [Email](mailto:jmanasses1024@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/seu-link) | 🐙 [GitHub](https://github.com/seu-usuario)
+📍 Recife, Brasil | 📧 [Email](mailto:jmanasses1024@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/manass%C3%A9s-j%C3%BAlio-93b565155/) | 🐙 [GitHub](https://github.com/manassesj)
 
 ---
 
